@@ -1,0 +1,6 @@
+c:\users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\obj\Debug\TripleTrouble.csprojResolveAssemblyReference.cache
+C:\Users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\bin\Debug\TripleTrouble.exe.config
+C:\Users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\bin\Debug\TripleTrouble.exe
+C:\Users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\bin\Debug\TripleTrouble.pdb
+C:\Users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\obj\Debug\TripleTrouble.exe
+C:\Users\ntailo\documents\visual studio 2017\Projects\TripleTrouble\TripleTrouble\obj\Debug\TripleTrouble.pdb
